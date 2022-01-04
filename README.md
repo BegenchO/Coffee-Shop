@@ -24,10 +24,10 @@ To-do list:
 
 ## Getting Started
    
-git clone <project url>
-code . (to open in VSCode)
-sbt build
-sbt run
+> git clone <project url>
+> code . (to open in VSCode)
+> sbt build
+> sbt run
 
 ## Usage
 
